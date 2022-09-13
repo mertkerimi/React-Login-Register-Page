@@ -10,7 +10,7 @@ const Success = () => {
     <div>
       <div className="app">
         <form className="success-form">
-          <h1>WELCOME!!</h1>
+          <h1>WELCOME TO MY PAGE!</h1>
           <Button onClick={logOut}>Log Out</Button>
         </form>
       </div>
