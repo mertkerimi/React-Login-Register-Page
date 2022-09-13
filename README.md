@@ -2,7 +2,7 @@
 
 > Simple login/register-page-app created with React js.
 
----
+
 
 ## Functionalities
 
@@ -10,7 +10,7 @@
 - Create an account
 - Validation
 
----
+
 
 ## Technologies
 
@@ -18,7 +18,7 @@
 - HTML5
 - CSS3
 
----
+
 
 ## Contributing
 
@@ -54,22 +54,38 @@ or
 
 ![Image](./src/assets/login-page.webp)
 
+---
+
 ### Login Page Error
 
 ![Image](./src/assets/login-error.webp)
+
+---
 
 ### Login Page Successful
 
 ![Image](./src/assets/login-successful.webp)
 
+---
+
 ### Register Page
 
 ![Image](./src/assets/register-page.webp)
+
+---
 
 ### Register Page Error
 
 ![Image](./src/assets/register-error.webp)
 
+---
+
 ### Register Page Succesful
 
 ![Image](./src/assets/register-successful.webp)
+
+---
+
+### Login Screen
+
+![Image](./src/assets/login-screen.png)
