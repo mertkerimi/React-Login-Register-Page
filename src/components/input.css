@@ -1,0 +1,31 @@
+.formInput {
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+}
+.input {
+  font-size: 15px;
+  color: #d5b58f;
+  background-color: #0026549c;
+  padding: 15px;
+  margin: 10px 0px;
+  border-radius: 5px;
+  border: 3px solid #d5b58fc3;
+}
+label {
+  font-size: 20px;
+  color: #020966;
+}
+.errorInput {
+  display: block;
+  font-size: 15px;
+  color: red;
+}
+.errorInput::placeholder {
+  color: red;
+  opacity: 1;
+}
+
+input {
+  border-color: white;
+}
