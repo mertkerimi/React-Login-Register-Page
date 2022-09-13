@@ -4,7 +4,7 @@
 
 ## Live App
 
-> react-login-register-page.vercel.app/
+> [Link](react-login-register-page.vercel.app/)
 
 ## Functionalities
 
